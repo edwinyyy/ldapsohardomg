@@ -11,7 +11,7 @@ if (isset($_GET['error']) && $_GET['error'] == 'auth_fail') {
     input{ padding: 10px; font-size: 20;}
 </style></head>
 </body>
-<h1>Fuck this project</h1>
+<h1>Fuck u too</h1>
 <form action="Auth_test.php" method="post">
     <input type = "text" name= "username" /><br>
     <input type = "password" name= "password" /><br>
